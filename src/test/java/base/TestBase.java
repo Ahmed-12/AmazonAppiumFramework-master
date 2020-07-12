@@ -14,7 +14,7 @@ public class TestBase {
 	public static AppiumDriver driver;
 	public LandingPageAndroid LandingPage;
 
-	private static final String ANDROID_URI = "/Users/saif.siddiqui/Downloads/Appium/src/test/resources/app/AmazonIndia.apk";
+	private static final String ANDROID_URI = "/Users/ahmed.faraaz/Downloads/Appium/src/test/resources/app/AmazonIndia.apk";
 
 	@BeforeSuite
 	public void setUp() throws MalformedURLException {
