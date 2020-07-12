@@ -28,10 +28,3 @@ This is a sample POM framework to automate Amazon Android app
 * Click Next
 * Click Finish
 
-Note: 
-- Havn't used assertion in the test cases every where except first one which is to verify email
-- We can also create the methods in normal call and call these method in the test class to only assert them
-- for now I have deleted the test-output folder though allure-resukts folder is still there
-- Allure report may not generate report due to some configuration issue
-- Currently all the elements found have been kept on two pages AmazonHomePageAndroid , LandingPageAndroid and same goes for test cases.
-
